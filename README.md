@@ -71,9 +71,7 @@ Stonewall/
 
 Feel free to contribute to Stonewall by submitting pull requests or reporting issues. Together, we can make this platform better!
 
-## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ---
 
